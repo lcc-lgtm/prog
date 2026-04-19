@@ -6,11 +6,11 @@ import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoUnit;
 import java.io.*;
 public class SmartLibrarySystem {
-    private static final String DEFAULT_ADMIN_ID = "UID8888";
-    private static final String DEFAULT_FACULTY_ID = "UID5088";
-    private static final String DEFAULT_STUDENT_ID = "UID3001";
-    private static final String DEFAULT_PUBLIC_ID = "UID0001";
-    private static final String DEFAULT_PUBLIC_FINE_ID = "UID0002";
+    private static final String DEFAULT_ADMIN_ID = "UID001";
+    private static final String DEFAULT_FACULTY_ID = "UID002";
+    private static final String DEFAULT_STUDENT_ID = "UID003";
+    private static final String DEFAULT_PUBLIC_ID = "UID004";
+    private static final String DEFAULT_PUBLIC_FINE_ID = "UID005";
     private static final String DEFAULT_ADMIN_PASSWORD = "admin123";
     private static final String DEFAULT_FACULTY_PASSWORD = "faculty123";
     private static final String DEFAULT_STUDENT_PASSWORD = "student123";
